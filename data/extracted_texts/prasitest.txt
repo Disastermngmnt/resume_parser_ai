@@ -1,0 +1,53 @@
+ 
+ 
+ 
+Education  Prasidham  Sinha  
+prasidhamsinha@gmail.com  | +91 8987493105  | LinkedIn  
+• Birla  Institute  of Technology,  Mesra  | CGPA  - 9.2 
+B. Tech  in Mechanical Engineering   Nov 2020  - Jul 2024  
+• Delhi Public School,  CBSE 12  | Percentage  – 96.66%  Jul 2019 - Jul 2020  
+• Sarala Birla Public School, CBSE  10| Percentage - 95.6%  Jul 2017 - Jul 2018  
+Profile  
+Program Management professional with 1 year of EdTech experience. Delivering  results focused on stakeholders by managing 
+backlogs and improving processes. Have contributed to UX design, product road mapping, and AI -driven prototyping to support 
+faster development. Passionate about learning through hands -on experience and am currently exploring LangChain and n8n for 
+automation workflows.  
+Skills  
+Technical Skills:  Excel,  Power  BI, MySQL,  Python,  Project Management, Agile, Process Improvement, Risk & Stakeholder 
+Management,  Basic GIS Concepts, Python, LangChain, Basic Data Analysis, Prompt Engineering  
+ 
+Tools:  Google Workspace, Jira, Asana, Azure DevOps, Smartsheet, Google BigQuery, Power BI, Figma, Excel, MixPanel, Cursor IDE , MS 
+Visio, MS P rojects  
+Experience  
+PwC India,  Associate  | Gurgaon, Haryana  Aug 2024  – Present  
+• Led 5 to 7 -month EdTech projects from start to finish for teams of 5 to 6 members. Ensured timely delivery and kept 
+stakeholders informed using Azure DevOps backlog management.  
+• Improved process efficiency by reducing sprint spillover from 35% to 10% by implementing a “70:30” focus rule. Also set up 
+the weekly bug -log metrics and reduced the defect rate by 10% each sprint.  
+• Designed and owned  two major feature streams: Email Service and Performance Management  end to end . Defined user 
+experiences in Figma/Cursor, wrote functional specifications, and worked with developers to deliver polished releases.  
+• Built Power BI and Excel dashboards to track velocity, risk, and quality metrics  and communicated progress, risks, and 
+forecasts to clients and leadership.  
+• Recognized as the youngest Associate Product Manager in the PwC India EdTech division. Also  received a director’s 
+commendation for my innovative solutions and for leading my team.  
+Indian Institute of Technology Delhi,  Summer  Intern  | New Delhi, India  Jun 2023  - Aug 2023  
+• Analytical Data Analysis and Visualization for Structural Modifications.  
+• Performed comparative data analysis of datasets from multiple simulation software tools.  
+• Professional Recognition: Awarded certificate of excellence and a LOR for completing the research project within 9 weeks, and  
+removing major blockers for PhD Thesis.  
+Projects  
+Project Management AI Assistant  Project  Details  
+ 
+• Built a LangChain -based chatbot  for natural language sprint management, backlog tracking, and real -time progress 
+reporting.  
+• Automated generation of sprint burn -down, spillover, and bug trend insights, cutting manual status -tracking effort by 
+~50% . Delivered backlog health summaries and actionable recommendations, improving planning accuracy by ~25% . 
+Skill Bridger Product Strategy & Feature Roadmap  Project  Details  
+ 
+• Secured in Top 10% of the HelloPM Product Case Competition . 
+• Developed a unique  market entry strategy to capture the growing market of skill-based  hiring, reducing repetitive job tasks by 
+50% for both job seekers and recruiters while  directing  strategic  collaborations  with top MNCs  to enhance  peer perspective . 
+Knightcart  Supply  Chain  Strategy  Project  Details  
+• Devised  strategies  to improve  trust,  visibility,  and distribution  efficiency  for Knightcart  while  developing  a business  model  for 
+market  penetration  and geographic  expansion  via digital  platforms  to boost  profitability.  
+
