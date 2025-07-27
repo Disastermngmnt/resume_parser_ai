@@ -1,4 +1,4 @@
-1. Clone the repo and navigate into it:
+# 1. Clone the repo and navigate into it:
 #    git clone <your-repo-url> resume_parser
 #    cd resume_parser
 #
