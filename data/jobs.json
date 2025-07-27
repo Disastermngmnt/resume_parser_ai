@@ -1,0 +1,4 @@
+[
+  {"id": "SWE-1", "title": "Software Engineer", "keywords": ["Python"], "references": ["REST API knowledge"]},
+  {"id": "PM-2", "title": "Project Manager", "keywords": ["Scrum"], "references": ["Agile experience"]}
+]
